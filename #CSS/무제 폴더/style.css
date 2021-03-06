@@ -1,0 +1,32 @@
+.parent {
+    width: 400px;
+    margin: 0 auto;
+    background-color: gray;
+}
+
+.child {
+    float: left;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+    color: white;
+    font-weight: 600;
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    margin: 40px;
+    background-color: orange;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.other {
+    background-color: indianred;
+}
